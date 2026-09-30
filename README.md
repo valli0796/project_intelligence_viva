@@ -1,5 +1,5 @@
 Project Name: Project Intelligence & Viva System
-VivaIQ – Viva Intelligence & Question-generation System
+(VivaIQ – Viva Intelligence & Question-generation System)
 
 1.About the Project
 
