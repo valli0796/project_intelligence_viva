@@ -1,0 +1,9 @@
+uploads/
+backend/uploads/
+
+venv/
+backend/venv/
+
+backend/chroma_db/
+
+.env
