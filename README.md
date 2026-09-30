@@ -1,5 +1,5 @@
-
-VivaIQ – AI Project Intelligence and Viva Answer System
+Project Name: Project Intelligence & Viva System
+VivaIQ – Viva Intelligence & Question-generation System
 
 1.About the Project
 
@@ -60,7 +60,7 @@ project_intelligence_viva/
 Note: The uploads and chroma_db folders may be created or populated when the application runs. Local user data and generated database files should not be committed to GitHub.
 
 6.System Architecture
-![System Architecture](docs/architecture.png)
+![VivaIQ System Architecture](docs/architecture.png)
 
 7.Prerequisites
 
